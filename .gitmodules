@@ -4,3 +4,6 @@
 [submodule "ufla-tcc-contact-bridge"]
 	path = ufla-tcc-contact-bridge
 	url = git@github.com:rafaelportomoura/ufla-tcc-contact-bridge.git
+[submodule "ufla-tcc-jenkins"]
+	path = ufla-tcc-jenkins
+	url = git@github.com:rafaelportomoura/ufla-tcc-jenkins.git
