@@ -1,0 +1,3 @@
+[submodule "ufla-tcc-infra"]
+	path = ufla-tcc-infra
+	url = git@github.com:rafaelportomoura/ufla-tcc-infra.git
