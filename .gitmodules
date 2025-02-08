@@ -13,3 +13,6 @@
 [submodule "ufla-tcc-oauth"]
 	path = ufla-tcc-oauth
 	url = git@github.com:rafaelportomoura/ufla-tcc-oauth.git
+[submodule "ufla-tcc-products"]
+	path = ufla-tcc-products
+	url = git@github.com:rafaelportomoura/ufla-tcc-products.git
