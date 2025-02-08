@@ -19,3 +19,6 @@
 [submodule "ufla-tcc-stock"]
 	path = ufla-tcc-stock
 	url = git@github.com:rafaelportomoura/ufla-tcc-stock.git
+[submodule "ufla-tcc-modelo"]
+	path = ufla-tcc-modelo
+	url = git@github.com:rafaelportomoura/ufla-tcc-modelo.git
