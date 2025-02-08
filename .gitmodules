@@ -7,3 +7,6 @@
 [submodule "ufla-tcc-jenkins"]
 	path = ufla-tcc-jenkins
 	url = git@github.com:rafaelportomoura/ufla-tcc-jenkins.git
+[submodule "ufla-tcc-orders"]
+	path = ufla-tcc-orders
+	url = git@github.com:rafaelportomoura/ufla-tcc-orders.git
