@@ -10,3 +10,6 @@
 [submodule "ufla-tcc-orders"]
 	path = ufla-tcc-orders
 	url = git@github.com:rafaelportomoura/ufla-tcc-orders.git
+[submodule "ufla-tcc-oauth"]
+	path = ufla-tcc-oauth
+	url = git@github.com:rafaelportomoura/ufla-tcc-oauth.git
